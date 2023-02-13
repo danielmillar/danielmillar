@@ -4,4 +4,5 @@ Hi there! I'm Daniel Millar, a 19-year-old software engineering student with a l
 
 ### 📊 Stats
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmillar&show_icons=true&theme=dark)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmillar&show_icons=true&theme=dracula)<br/>
+![Daniel's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmillar&show_icons=true&theme=dracula)
