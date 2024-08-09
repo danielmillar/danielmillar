@@ -4,7 +4,7 @@
 <br>
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=java,js,kotlin,ts&theme=dark)
 <br>
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,gradle,maven,windows,linux,nodejs,docker&theme=dark)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,gradle,windows,linux,nodejs,docker&theme=dark)
 <br>
 ![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql&theme=dark)
 
