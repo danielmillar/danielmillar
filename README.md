@@ -2,7 +2,7 @@
 ### 💻 Languages, Technologies and Tools:
 ![IDEs](https://go-skill-icons.vercel.app/api/icons?i=idea,vscode&theme=dark&titles=true)
 <br>
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=java,js,kotlin,ts&theme=dark)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,java,kotlin&theme=dark)
 <br>
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,gradle,windows,linux,nodejs,docker&theme=dark)
 <br>
