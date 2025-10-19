@@ -1,5 +1,3 @@
-# Hello
-
 ### 💻 Languages, Technologies and Tools:
 ![IDEs](https://go-skill-icons.vercel.app/api/icons?i=idea,vscode&theme=dark&titles=true)
 <br>
