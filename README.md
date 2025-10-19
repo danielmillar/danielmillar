@@ -1,3 +1,4 @@
+# Hello
 
 ### 💻 Languages, Technologies and Tools:
 ![IDEs](https://go-skill-icons.vercel.app/api/icons?i=idea,vscode&theme=dark&titles=true)
@@ -12,4 +13,4 @@
 
 ![Daniel's GitHub stats](https://github-readme-stats-two-khaki.vercel.app/api?username=danielmillar&show_icons=true&theme=dark&count_private=true)
 <br/>
-![Daniel's most used languages](https://github-readme-stats-two-khaki.vercel.app/api/top-langs/?username=danielmillar&theme=dark)
+![Top languages](https://github-readme-stats-two-khaki.vercel.app/api/top-langs/?username=danielmillar&theme=dark&layout=compact)
