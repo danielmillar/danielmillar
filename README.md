@@ -8,47 +8,33 @@
 
 <br />
 
-## About
+I'm a software engineer in Scotland (First Class BEng, Edinburgh Napier). I build Java and Kotlin tooling for Minecraft servers (Paper, Minestom, Fabric), plus TypeScript.
 
-I'm a back-end focused software engineer who enjoys solving complex engineering challenges. I'm particularly interested in scalable systems and software that has to perform reliably under real-world load. The kinds of engineering problems tackled by companies like SpaceX and Tesla are exactly the sort of challenges that motivate me.
+**Available for software engineering roles.** See my work at [danielmillar.dev](https://danielmillar.dev).
 
-I primarily build with **Java** and **Kotlin**, alongside **TypeScript** and the rest of my backend tooling. I like writing code that's clean and efficient, the kind that makes sense when you revisit it months later. I'm always looking to deepen my knowledge of distributed systems and scalable backend architecture.
+## Featured
 
-<br />
+**[VoiceWarden](https://github.com/danielmillar/VoiceWarden)**  
+Local speech-to-text moderation for Simple Voice Chat on Paper 26.1+ (Java 25). Has CI and tests, MIT licensed.
 
-## Projects
+**[SlimeLink](https://github.com/danielmillar/SlimeLink)** · *Maintained*  
+A Skript addon for AdvancedSlimePaper: create, load, save and delete worlds from Skript. Written in Kotlin, with 230 downloads on [Modrinth](https://modrinth.com/plugin/slimelink). Latest release February 2026.
 
-**[SlimeLink](https://github.com/danielmillar/SlimeLink)** · *Active Development*  
-A modern Skript addon for seamless interaction with AdvancedSlimePaper. Provides clean and intuitive syntax to easily create, load, save, and delete worlds directly from Skript.  
-`Kotlin` · `Java` · `Gradle` · `AdvancedSlimePaper API`
+**[KwikMedical](https://github.com/danielmillar/KwikMedical)** · *University coursework (archived)*  
+Emergency medical services system built with a service-oriented architecture (Kotlin, Ktor, React, WebSockets).
 
-**[KwikMedical](https://github.com/danielmillar/KwikMedical)** · *Academic Project*  
-Emergency medical services system designed with Service Oriented Architecture. Streamlines the entire emergency response workflow from call intake through ambulance dispatch to hospital coordination.  
-`Kotlin` · `Ktor` · `TypeScript` · `React` · `React Native` · `WebSockets` · `H2 Database`
+**Coming soon** (being prepared for open source):
+- **paper-mcp**: an MCP server that runs a Paper plugin project on a real server with headless real-client bots, so agents can verify plugin changes.
+- **DisplayCloner**: a Fabric client mod that records and replays display entities, HUD and menus.
 
-<br />
+## How I work
 
-## Skills & Technologies
+I use coding agents for implementation, but I own the design, review and verification, and I build test harnesses so agents can't ship broken code.
 
-| Languages | Tools & Platforms | Databases & Systems |
-| --- | --- | --- |
-| Kotlin · Java | IntelliJ IDEA · VS Code | MongoDB · MySQL |
-| JavaScript · TypeScript | Git · GitHub · Gradle | Windows · Linux |
-| | Node.js · Docker | |
+## Tech
 
-![Skills](https://skillicons.dev/icons?i=kotlin,java,js,ts,idea,vscode,git,github,gradle,nodejs,docker,mongodb,mysql,linux)
-
-<br />
-
-## GitHub Stats
-
-![Daniel's GitHub stats](https://github-readme-stats-two-khaki.vercel.app/api?username=danielmillar&show_icons=true&count_private=true&hide_border=false&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&icon_color=a3a3a3&border_color=262626&ring_color=a3a3a3)
-![Top languages](https://github-readme-stats-two-khaki.vercel.app/api/top-langs/?username=danielmillar&layout=compact&hide_border=false&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&border_color=262626)
-
-<br />
+Java · Kotlin · TypeScript · Python · Gradle · Paper / Minestom / Fabric · Docker · GitHub Actions · SQL / Redis
 
 ## Contact
 
-Feel free to reach out if you'd like to work together or just ask a question.
-
-[contact@danielmillar.dev](mailto:contact@danielmillar.dev) · [GitHub](https://github.com/danielmillar) · [LinkedIn](https://www.linkedin.com/in/danielgmillar/)
+[danielmillar.dev](https://danielmillar.dev) · [GitHub](https://github.com/danielmillar) · [Email](mailto:contact@danielmillar.dev) · [LinkedIn](https://www.linkedin.com/in/danielgmillar/)
