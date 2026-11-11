@@ -14,9 +14,9 @@ I'm Daniel, a software engineer in Scotland with a First Class BEng from Edinbur
 
 ## Featured
 
-**[VoiceWarden](https://github.com/danielmillar/VoiceWarden)**  
+**[VoiceWarden](https://github.com/danielmillar/VoiceWarden)** · *active*  
 Catches slurs and abuse in proximity voice chat, entirely locally, with no cloud service involved. Local speech-to-text moderation for Simple Voice Chat.  
-`Java 25` · `Paper 26.1+` · CI and tests · MIT
+`Java 25` · `Paper 26.1+` · `JUnit 6` · `GitHub Actions` · `MIT`
 
 **[SlimeLink](https://github.com/danielmillar/SlimeLink)** · *maintained*  
 Lets server owners create, load, save and delete worlds straight from Skript, on top of AdvancedSlimePaper. 230 downloads on [Modrinth](https://modrinth.com/plugin/slimelink); latest release February 2026.  
@@ -24,7 +24,7 @@ Lets server owners create, load, save and delete worlds straight from Skript, on
 
 **[KwikMedical](https://github.com/danielmillar/KwikMedical)** · *university coursework, archived*  
 An emergency medical dispatch system, from the call coming in to the ambulance and hospital being coordinated.  
-`Kotlin` · `Ktor` · `React` · `WebSockets`
+`Kotlin` · `Ktor` · `React` · `WebSockets` · `kotlin-test`
 
 ## How I work
 
