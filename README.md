@@ -1,10 +1,4 @@
-<div align="center">
-
-![Daniel Millar - Software Engineer](./assets/header.png)
-
-</div>
-
-I'm Daniel, a software engineer in Scotland (First Class BEng, Edinburgh Napier). I build Java and Kotlin tooling for Minecraft servers, and I like proving things work before anyone else has to. I build with AI agents: I set the design, review every change and verify it works before it ships. **Looking for software engineering roles.**
+I'm Daniel, a software engineer in Scotland (First Class BEng, Edinburgh Napier). I build Java and Kotlin tooling for Minecraft servers. I build with AI agents: I set the design, review every change and verify it works before it ships. **Looking for software engineering roles.**
 
 [Portfolio](https://danielmillar.dev) · [Email](mailto:contact@danielmillar.dev) · [LinkedIn](https://www.linkedin.com/in/danielgmillar/) · [GitHub](https://github.com/danielmillar)
 
