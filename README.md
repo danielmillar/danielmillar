@@ -8,28 +8,27 @@
 
 <br />
 
-I'm a software engineer in Scotland (First Class BEng, Edinburgh Napier). I build Java and Kotlin tooling for Minecraft servers (Paper, Minestom, Fabric), plus TypeScript.
+I'm Daniel, a software engineer in Scotland with a First Class BEng from Edinburgh Napier. I like building things that run on real servers with real players, mostly in Java and Kotlin, and I like proving they work before anyone else has to.
 
-**Available for software engineering roles.** See my work at [danielmillar.dev](https://danielmillar.dev).
+**I'm looking for software engineering roles.** More at [danielmillar.dev](https://danielmillar.dev).
 
 ## Featured
 
 **[VoiceWarden](https://github.com/danielmillar/VoiceWarden)**  
-Local speech-to-text moderation for Simple Voice Chat on Paper 26.1+ (Java 25). Has CI and tests, MIT licensed.
+Catches slurs and abuse in proximity voice chat, entirely locally, with no cloud service involved. Local speech-to-text moderation for Simple Voice Chat.  
+`Java 25` · `Paper 26.1+` · CI and tests · MIT
 
-**[SlimeLink](https://github.com/danielmillar/SlimeLink)** · *Maintained*  
-A Skript addon for AdvancedSlimePaper: create, load, save and delete worlds from Skript. Written in Kotlin, with 230 downloads on [Modrinth](https://modrinth.com/plugin/slimelink). Latest release February 2026.
+**[SlimeLink](https://github.com/danielmillar/SlimeLink)** · *maintained*  
+Lets server owners create, load, save and delete worlds straight from Skript, on top of AdvancedSlimePaper. 230 downloads on [Modrinth](https://modrinth.com/plugin/slimelink); latest release February 2026.  
+`Kotlin` · `Gradle` · `AdvancedSlimePaper`
 
-**[KwikMedical](https://github.com/danielmillar/KwikMedical)** · *University coursework (archived)*  
-Emergency medical services system built with a service-oriented architecture (Kotlin, Ktor, React, WebSockets).
-
-**Coming soon** (being prepared for open source):
-- **paper-mcp**: an MCP server that runs a Paper plugin project on a real server with headless real-client bots, so agents can verify plugin changes.
-- **DisplayCloner**: a Fabric client mod that records and replays display entities, HUD and menus.
+**[KwikMedical](https://github.com/danielmillar/KwikMedical)** · *university coursework, archived*  
+An emergency medical dispatch system, from the call coming in to the ambulance and hospital being coordinated.  
+`Kotlin` · `Ktor` · `React` · `WebSockets`
 
 ## How I work
 
-I use coding agents for implementation, but I own the design, review and verification, and I build test harnesses so agents can't ship broken code.
+Agents write a lot of my code. I decide the design, review every change and own whether it ships. The part I enjoy most is the tooling that keeps them honest: an MCP server that boots a Paper server and drives real headless Minecraft clients, so an agent has to prove a plugin works in-game before it can call the job done, and a renderer that draws Minecraft GUIs pixel-accurately so a menu change can be checked by eye rather than taken on trust.
 
 ## Tech
 
