@@ -4,6 +4,14 @@ I'm Daniel, a software engineer in Scotland (First Class BEng, Edinburgh Napier)
 
 ## Featured
 
-- **[VoiceWarden](https://github.com/danielmillar/VoiceWarden)** — catches slurs and abuse in Minecraft voice chat with on-server speech-to-text, no cloud. v1.0.0 released, CI-tested on Paper 26.1 to 26.3
-- **[SlimeLink](https://github.com/danielmillar/SlimeLink)** — Skript addon for creating, loading, saving and deleting worlds. 230 downloads on Modrinth
-- **[KwikMedical](https://github.com/danielmillar/KwikMedical)** — emergency dispatch built as five Kotlin services with web front ends. Software Architecture coursework
+**[MineLink](https://minelink.gg)**<br>
+Session server relay that lets one Minecraft server accept players from both MineKeep and Minehut. Live TypeScript service I run on Cloudflare Workers.
+
+**[VoiceWarden](https://github.com/danielmillar/VoiceWarden)**<br>
+Catches slurs and abuse in Minecraft voice chat with on-server speech-to-text, no cloud. v1.0.0 released, CI-tested on Paper 26.1 to 26.3.
+
+**[SlimeLink](https://github.com/danielmillar/SlimeLink)**<br>
+Skript addon for creating, loading, saving and deleting worlds. 230 downloads on Modrinth.
+
+**[KwikMedical](https://github.com/danielmillar/KwikMedical)**<br>
+Emergency dispatch built as five Kotlin services with web front ends. Software Architecture coursework.
