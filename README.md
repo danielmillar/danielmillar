@@ -5,7 +5,7 @@ I'm Daniel, a software engineer in Scotland (First Class BEng, Edinburgh Napier)
 ## Featured
 
 **[MineLink](https://minelink.gg)**<br>
-Session server relay that lets one Minecraft server accept players from both MineKeep and Minehut. Live TypeScript service I run on Cloudflare Workers.
+Velocity plugin that lets one Minecraft proxy accept players from both Minehut and MineKeep, verifying logins on the proxy itself with no third-party relay. Open source Java, v1.0.1 released.
 
 **[VoiceWarden](https://github.com/danielmillar/VoiceWarden)**<br>
 Catches slurs and abuse in Minecraft voice chat with on-server speech-to-text, no cloud. v1.0.0 released, CI-tested on Paper 26.1 to 26.3.
