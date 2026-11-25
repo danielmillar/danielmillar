@@ -1,6 +1,6 @@
 I'm Daniel, a software engineer in Scotland (First Class BEng, Edinburgh Napier). I write Java, Kotlin and TypeScript, and I build with AI agents: I set the design, review every change and verify it works before it ships. **Looking for software engineering roles.**
 
-[Portfolio](https://danielmillar.dev) · [Email](mailto:contact@danielmillar.dev) · [LinkedIn](https://www.linkedin.com/in/danielgmillar/) · [GitHub](https://github.com/danielmillar)
+[Portfolio](https://danielmillar.dev) · [Email](mailto:contact@danielmillar.dev) · [LinkedIn](https://www.linkedin.com/in/danielgmillar/) · [GitHub](https://github.com/danielmillar) · [Discord](https://discord.gg/ydAw9QNBqf)
 
 ## Featured
 
