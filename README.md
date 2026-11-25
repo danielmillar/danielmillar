@@ -8,7 +8,7 @@ I'm Daniel, a software engineer in Scotland (First Class BEng, Edinburgh Napier)
 Velocity plugin that lets one Minecraft proxy accept players from both Minehut and MineKeep, verifying logins on the proxy itself with no third-party relay.
 
 **[VoiceWarden](https://github.com/danielmillar/VoiceWarden)**<br>
-Catches slurs and abuse in Minecraft voice chat with on-server speech-to-text, no cloud. CI-tested on Paper 26.1 to 26.3.
+Fully local voice chat moderation for Minecraft: on-server speech-to-text, Silero VAD, acoustic mic-spam guard, Double Check verification, and player reports with audio clips for Paper/Folia.
 
 **[SlimeLink](https://github.com/danielmillar/SlimeLink)**<br>
 Skript addon for creating, loading, saving and deleting worlds. [Modrinth](https://modrinth.com/plugin/slimelink)
